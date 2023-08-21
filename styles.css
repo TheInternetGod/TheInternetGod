@@ -16,7 +16,6 @@ header {
   background-image: url('pexels.jpg');
   background-size: cover;
   background-position: center;
-  color: #1E90FF;
   text-align: center;
   padding: 1em 0;
   position: relative;
@@ -39,6 +38,15 @@ nav a {
 
 nav a.active {
   font-weight: none;
+}
+
+.stylish-heading {
+  font-family: 'YourFontName', sans-serif; 
+  font-size: 36px; 
+  color: #1E90FF;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
 }
 
 .main {
