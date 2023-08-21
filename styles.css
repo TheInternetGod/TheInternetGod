@@ -49,6 +49,11 @@ nav a.active {
   z-index: 1
 }
 
+/* Apply specific styles to the home page */
+body.home-page {
+  background-color: #0B2161;
+}
+
 .intro {
   color: #1E90FF;
   padding: 40px 0;
