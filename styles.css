@@ -51,7 +51,7 @@ nav a.active {
 
 /* Apply specific styles to the home page */
 body.home-page {
-  background-color: #0B2161;
+  background-image: url('pexels1.jpg');
 }
 
 .intro {
