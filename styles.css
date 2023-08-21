@@ -24,7 +24,7 @@ header {
 }
 
 .stylish-heading {
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 nav ul {
