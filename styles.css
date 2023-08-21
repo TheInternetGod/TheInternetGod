@@ -23,6 +23,10 @@ header {
   z-index: 2;  
 }
 
+.stylish-heading {
+  text-transform: uppercase;
+}
+
 nav ul {
   list-style: none;
 }
