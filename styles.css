@@ -13,12 +13,14 @@ body {
 }
 
 header {
-  background-color: #8080ff;
+  background-image: url('background123.jpg'); /* Add the URL of your background image */
+  background-size: cover;
+  background-position: center;
   color: #ecf0f1;
   text-align: center;
   padding: 1em 0;
   position: relative;
-  z-index: 2
+  z-index: 2;  
 }
 
 nav ul {
