@@ -101,7 +101,7 @@ nav a.active {
   margin-top: 10px;
   text-align: left;
   color: #4169E1;
-  text-decoration: none;
+  text-decoration: bold;
 }
 
 .tutorial a:hover {
