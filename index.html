@@ -17,6 +17,15 @@
   <div class="loading-screen">
   <div class="spinner"></div>
   </div>
+    <script>
+    // Wait for the page to load
+    window.addEventListener("load", function() {
+      // Hide the loading spinner after 2 seconds
+      setTimeout(function() {
+        document.querySelector(".loading-screen").style.display = "none";
+      }, 2000); // 2000 milliseconds = 2 seconds
+    });
+    </script>
   <header>
     <h1 class="stylish-heading">STEM Projects</h1>
     <nav>
